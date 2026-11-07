@@ -662,3 +662,4 @@ input[type=range]:active::-webkit-slider-thumb{transform:scale(1.2)}
 @media (max-width:700px){.kcal-grid{grid-template-columns:1fr}}
 .calc-mini{display:none}
 @media (max-width:900px){.calc-mini{display:flex;justify-content:space-between;gap:.6rem;position:sticky;top:.5rem;z-index:5;background:var(--ink);color:var(--paper);border-radius:999px;padding:.6rem 1rem;font-size:.75rem;margin-bottom:1rem;box-shadow:0 8px 24px rgba(0,0,0,.15)}.calc-mini b{display:block;font-family:var(--display);font-weight:400;font-size:1.15rem;font-variant-numeric:tabular-nums}}
+@media (min-width:821px){.hero-media{max-height:calc(100svh - var(--head-h) - 7rem);aspect-ratio:auto;height:calc(100svh - var(--head-h) - 7rem)}.hero-media video,.hero-media img{object-position:38% 40%}}
