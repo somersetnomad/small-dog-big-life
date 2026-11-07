@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://smalldog.noorintelligence.tech/sitemap.xml
